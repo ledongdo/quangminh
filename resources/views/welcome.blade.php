@@ -1,0 +1,1 @@
+<p>{{auth()->user()->name}}</p>
